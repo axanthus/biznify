@@ -16,7 +16,7 @@ export async function GET(req: NextRequest, res: NextResponse) {
     const addresses = gData[zipcode].records
     //Inrix stuff
   
-
+    console.log(addresses)
     // Extract the required data
     const parsedData = addresses.map((record: any) => ({ // You might want to define a type for 'record'
       address: record.address,

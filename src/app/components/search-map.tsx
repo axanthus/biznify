@@ -6,6 +6,7 @@ import SearchBar from "./search-bar";
 
 export default function SearchAndMap() {
   const { selectedLocation, mapZoom, locations, handleLocationClick, handleSearchWrapper} = useSearchandMap()
+  
   return (
     <div className='space-y-12'>
         <SearchBar onSearch={handleSearchWrapper} />
@@ -19,7 +20,7 @@ export default function SearchAndMap() {
             </div>
           </section>
           <section className=" flex-1 relative">
-            <Map locations={locations.map(location => location.coords)} center={selectedLocation} zoom={mapZoom} />
+          <Map locations={locations} center={selectedLocation} zoom={mapZoom} />
           </section>
         </div>
       </div>
