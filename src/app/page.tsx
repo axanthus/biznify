@@ -1,6 +1,7 @@
 import { getLots, getTripsCount,onStreetParking } from '@/lib/inrix';
 import LocationCard from './components/location-card';
 import SearchBar from './components/search-bar';
+import SearchAndMap from './components/search-map';
 
 
 export default async function Home() {
@@ -42,28 +43,13 @@ export default async function Home() {
   // let z = await onStreetParking(37.7888752700283,-122.4336311214917);
   // console.log("Number of on-street parking spots "+z);
 
-
-
   return (
-    <main style={{backgroundImage:"url(/bg-accent.png)"}} className=" bg-no-repeat bg-contain min-h-screen px-24 pt-12 space-y-12">
+    <main style={{backgroundImage:"url(/bg-accent.png)"}} className=" bg-no-repeat bg-contain min-h-screen px-24 pt-12 space-y-12 mb-20">
       <div className='space-y-4'>
         <h1 className='text-primary text-[4rem] font-black'>Biznify</h1>
         <h2 className=' text-accent-light text-4xl font-bold'>Specify a location for your business <span className='text-xl text-primary'>(and we&apos;ll do the rest)</span></h2>
       </div>
-      <div className='space-y-12'>
-        <SearchBar />
-        <div className='flex flex-row'>
-          <section className=' w-1/2 p-8 flex flex-col gap-8 border-4 border-dashed border-accent-dark rounded-xl'>
-            <h2 className='text-4xl font-semibold text-gray-500'>Best Locations</h2>
-            <div className='w-full'>
-              <LocationCard />
-            </div>
-          </section>
-          <section>
-            <div>map</div>
-          </section>
-        </div>
-      </div>
+      <SearchAndMap />
     </main>
   )
 }

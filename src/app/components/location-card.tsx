@@ -1,7 +1,8 @@
 
-export default function LocationCard() {
+export default function LocationCard({location, onClick}: {location: { title: string, onClick: () => void }}) {
   return (
-    <div className="bg-white/70 to-white   rounded-xl shadow-md p-6 min-w-min space-y-4 ">
+    <div onClick={onClick} className="bg-white/70 to-white  cursor-pointer  rounded-xl shadow-md p-6 min-w-min space-y-4 ">
+      <p>{location.title}</p>
       <h2 className="text-3xl text-black font-bold">123 Main Street, San Francisco, CA 94105</h2>
       <div className="flex flex-row gap-8 divide-black">
         <div className="flex flex-col space-y-2">
