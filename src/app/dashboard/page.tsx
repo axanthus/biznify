@@ -1,9 +1,9 @@
-//'use client'
-import React from 'react';
+'use client'
+import React, { useState } from 'react';
 import Map from '../components/map';
 
 const YourPage: React.FC = () => {
-  const locations = [
+  const initialLocations = [
     {
       title: "75 Spear St",
       address1: "75 Spear St",
@@ -26,11 +26,30 @@ const YourPage: React.FC = () => {
       placeId: "ChIJqfjKtseAhYARcij-Ox2I3os",
     },
   ];
+  const [locations, setLocations] = useState(initialLocations);
+  const [selectedLocation, setSelectedLocation] = useState(locations[0]?.coords);
+  const [mapZoom, setMapZoom] = useState(13); //Default zoom
+
+  const handleLocationClick = (coords: { lat: number; lng: number }) => {
+    setSelectedLocation(coords);
+    setMapZoom(15); //zoom in on specific location when clicked
+  };
 
   return (
-    <div>
-      <h1>Your Page Title</h1>
-      <Map locations={locations.map(location => location.coords)} />
+    <div style={{ display: 'flex' }}>
+      <div style={{ flex: 1, padding: '20px' }}>
+        <h1>Your Page Title</h1>
+        <ul>
+          {locations.map((location, index) => (
+            <li key={index} onClick={() => handleLocationClick(location.coords)}>
+              {location.title}
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div style={{ flex: 2, position: 'relative' }}>
+        <Map locations={locations.map(location => location.coords)} center={selectedLocation} zoom={mapZoom} />
+      </div>
     </div>
   );
 };
