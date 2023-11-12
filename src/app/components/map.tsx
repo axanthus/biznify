@@ -14,7 +14,7 @@ const Map: React.FC<MapProps> = ({ locations, center, zoom }) => {
     height: '600px',
   };
 
-  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '';//"AIzaSyBzGtmdqtzBCDLz12bYckmFuh1Ga03EYYQ";  /*  || ''; */
+  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '';
 
   return (
     <LoadScript googleMapsApiKey={googleMapsApiKey}>
