@@ -2,7 +2,7 @@
 
 
 const getToken = () =>{
-    const url = `https://api.iq.inrix.com/auth/v1/appToken?appId=4he4g15183&hashToken=NGhlNGcxNTE4M3x6RkU1TkxHNTBLMmJvejJBSlB6NGQxRHFkdFN5QXJ3WFlCb0hydUU0`;
+    const url = `https://api.iq.inrix.com/auth/v1/appToken?appId=${process.env.INRIX_APP_ID}&hashToken=${process.env.INRIX_HASH_TOKEN}`;
     const requestOptions = {
         method: 'GET'
     };

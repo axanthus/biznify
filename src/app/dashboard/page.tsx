@@ -14,8 +14,6 @@ const YourPage: React.FC = () => {
             .then(data => setLocations(data))
             .catch(error => console.error('Error fetching data:', error));
     }, []);
-  
-  
     //const [locations, setLocations] = useState(initialLocations);
     const [selectedLocation, setSelectedLocation] = useState(locations[0]?.coords);
     const [mapZoom, setMapZoom] = useState(13); //Default zoom
