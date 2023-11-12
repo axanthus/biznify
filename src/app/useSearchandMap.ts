@@ -1,20 +1,23 @@
 'use client'
 import { useState, useEffect } from 'react';
 import { handleSearch } from './utils/geocodingUtils';
+import { set } from 'immer/dist/internal.js';
+import { useRouter } from 'next/navigation'
 
 export default function useSearchandMap() {
   const [locations, setLocations] = useState([]);
 
-    useEffect(() => {
-        // Fetch JSON data
-        fetch('/sampleLocations.json') // Replace with the correct path
-            .then(response => response.json())
-            .then(data => setLocations(data))
-            .catch(error => console.error('Error fetching data:', error));
-    }, []);
+    // useEffect(() => {
+    //     // Fetch JSON data
+    //     fetch('/sampleLocations.json') // Replace with the correct path
+    //         .then(response => response.json())
+    //         .then(data => setLocations(data))
+    //         .catch(error => console.error('Error fetching data:', error));
+    // }, []);
     //const [locations, setLocations] = useState(initialLocations);
     const [selectedLocation, setSelectedLocation] = useState(locations[0]?.coords);
-    const [mapZoom, setMapZoom] = useState(13); //Default zoom
+  const [mapZoom, setMapZoom] = useState(13); //Default zoom
+  const router = useRouter();
 
     const handleLocationClick = (coords: { lat: number; lng: number }) => {
     setSelectedLocation(coords);
@@ -22,7 +25,16 @@ export default function useSearchandMap() {
     };
 
     const handleSearchWrapper = async (address: string) => {
-        await handleSearch(address, setSelectedLocation, setMapZoom);
+      const zipcode = await handleSearch(address, setSelectedLocation, setMapZoom);
+      console.log(zipcode)
+      const res = await fetch(`http://localhost:3000/api/data?zip=${zipcode}`, {
+        method: "GET",
+        
+      })
+      const data = await res.json()
+      console.log(data)
+      setLocations(data)
+      router.refresh()
     };
   
   return { selectedLocation, mapZoom, locations, handleLocationClick, handleSearchWrapper}

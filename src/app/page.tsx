@@ -1,4 +1,4 @@
-import { getLots, getTripsCount,onStreetParking } from '@/lib/inrix';
+import { getLots, getTripsCount, onStreetParking } from '@/lib/inrix';
 import LocationCard from './components/location-card';
 import SearchBar from './components/search-bar';
 import SearchAndMap from './components/search-map';
@@ -42,7 +42,7 @@ export default async function Home() {
   // */
   // let z = await onStreetParking(37.7888752700283,-122.4336311214917);
   // console.log("Number of on-street parking spots "+z);
-
+  
   return (
     <main style={{backgroundImage:"url(/bg-accent.png)"}} className=" bg-no-repeat bg-contain min-h-screen px-24 pt-12 space-y-12 mb-20">
       <div className='space-y-4'>

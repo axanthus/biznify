@@ -18,6 +18,7 @@ export const handleSearch = async (
         const { location } = data.results[0].geometry;
         setSelectedLocation({ lat: location.lat, lng: location.lng });
         setMapZoom(15);
+        return data.results[0].formatted_address.slice(-10, -5)
       } else {
         console.error('Unable to find coordinates for the given address.');
       }
