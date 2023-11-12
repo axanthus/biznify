@@ -1,3 +1,4 @@
+import { getLots } from '@/lib/inrix';
 import Image from 'next/image'
 
 export default async function Home() {
@@ -8,6 +9,10 @@ export default async function Home() {
   }) 
   const data = await response.json()
   console.log(data)
+
+  let x = await getLots(37.7888752700283,-122.4336311214917);
+  console.log(JSON.stringify(x));
+
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
