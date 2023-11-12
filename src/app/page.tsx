@@ -1,5 +1,7 @@
-import { getLots } from '@/lib/inrix';
+import { getLots, getTripsCount,onStreetParking } from '@/lib/inrix';
 import Image from 'next/image'
+
+
 
 export default async function Home() {
 
@@ -10,8 +12,36 @@ export default async function Home() {
   const data = await response.json()
   console.log(data)
 
+  /*
+  How to use getLots 
+  Parameters -> (Lat, Long)
+  Return -> JSON list of different parking lots w/ inf
+  If we only want the # of lots in the area,
+  use .count
+  Example:
+  */
+
   let x = await getLots(37.7888752700283,-122.4336311214917);
-  console.log(JSON.stringify(x));
+  console.log('Number of Lots nearby location: '+JSON.stringify(x.count));
+
+  /*
+  How to use getTripsCount;
+  Parameters -> (Lat, Long)
+  Return -> JSON. To access integer, Use .count
+  Example:
+  */
+  let y = await getTripsCount(37.7888752700283,-122.4336311214917);
+  console.log("Number of occurrences in which person travels to location during week: "+JSON.stringify(y.count));
+
+
+  /*
+  How to use onStreetParking
+  Parameters -> (Lat,Long)
+  Returns -> Int of # of parking spots in the area (onstreet) 
+  */
+  let z = await onStreetParking(37.7888752700283,-122.4336311214917);
+  console.log("Number of on-street parking spots "+z);
+
 
 
   return (
