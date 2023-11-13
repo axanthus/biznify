@@ -20,8 +20,7 @@ const Map: React.FC<MapProps> = ({ locations, center, zoom }) => {
     <LoadScript googleMapsApiKey={googleMapsApiKey}>
       <GoogleMap mapContainerStyle={mapContainerStyle} center={center || locations[0]} zoom={zoom || 13}>
         {locations.map((location, index) => {
-          console.log(typeof(location.latitude))
-          return <Marker key={index} position={{ coords: { lat: parseFloat(location.latitude), lng: parseFloat(location.longitude) } }} />
+          return <Marker key={index} position={{ lat: parseFloat(location.latitude), lng: parseFloat(location.longitude) } } />
         })}
       </GoogleMap>
     </LoadScript>
