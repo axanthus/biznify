@@ -1,14 +1,18 @@
 
 
 
-const getToken = () =>{
+const getToken = () => {
     const url = `https://api.iq.inrix.com/auth/v1/appToken?appId=${process.env.INRIX_APP_ID}&hashToken=${process.env.INRIX_HASH_TOKEN}`;
     const requestOptions = {
-        method: 'GET'
+        method: 'GET',
+        next: { revalidate: 1790 }, //30 minutes is 1800 seconds, so fetch this token every 29 minutes
     };
+    //console.log('before fetch: ', Date.now())
     return fetch(url,requestOptions)
-    .then((resp) => {
-        if(resp.ok){
+        .then((resp) => {
+        //console.log(resp)
+        if (resp.ok) {
+            //console.log("after fetch: ", Date.now());
             return resp.json();
         }else{
             Promise.reject(resp.status);
@@ -48,7 +52,7 @@ export const getLots =  async (lat:Number,long:Number) =>{
 
 export const getTripsCount = async (lat:Number,long:Number) => {
     return getToken()
-    .then((returnedToken)=>{
+    .then(async (returnedToken)=>{
         let tok = JSON.stringify(returnedToken.result.token)
         const options = {
             method: 'GET',
@@ -80,7 +84,7 @@ export const getTripsCount = async (lat:Number,long:Number) => {
 
 export const onStreetParking = async (lat:Number,long:Number) => {
     return getToken()
-    .then((returnedToken)=>{
+    .then(async (returnedToken)=>{
         let tok = JSON.stringify(returnedToken.result.token)
         const options = {
             method: 'GET',
@@ -126,10 +130,4 @@ export const onStreetParking = async (lat:Number,long:Number) => {
     })
 
 }
-
-
-
-
-console.log("Page loaded");
-
 
