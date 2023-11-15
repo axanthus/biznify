@@ -1,0 +1,2824 @@
+{
+    "records": [
+      {
+        "address": "2062 Divisadero St",
+        "brokers": [
+          {
+            "agent": "Ron Abta",
+            "company": "Polaris Realty",
+            "dateSeen": "2019-10-28T17:44:08.042Z",
+            "phones": [
+              "14155957661"
+            ]
+          }
+        ],
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2019-06-28T04:21:33Z",
+        "dateUpdated": "2023-11-11T13:04:17Z",
+        "descriptions": [
+          {
+            "dateSeen": "2019-11-02T22:07:00.000Z",
+            "value": "Great street exposure for this large corner commercial space. Fully updated, the unit's contemporary design greets you as you enter the open floor plan space in this timeless Victorian building. Currently occupied by an award-winning architecture firm, this commercial office space offers great income with its Triple-Net lease of $9,300 / month. A separate area exists in the back and enjoys a kitchenette with dishwasher and sink, copy room, and full bathroom. An ADA-compliant half bath is also conveniently located in the main office space area. The unit enjoys an insane location with a Walk Score of 98, just steps to spectacular retail, restaurants, cafes, shops, and Alta Plaza Park."
+          },
+          {
+            "dateSeen": "2023-11-11T13:04:00.000Z",
+            "value": "Luxury Commercial Space Located in San Francisco’s Exclusive Presidio Heights Neighborhood.​ Recently Renovated to House a High-end Architectural Firm, The Space Features High End Finishes, a Full Bathroom With Shower, Recessed Lighting, Finished Concrete and Hardwood Floors, and Beautiful Wood Trim Throughout.​ Currently Owned as a Tenancy—common, the Property Owner is In the Final Stages of a Condominium Conversion.​"
+          },
+          {
+            "dateSeen": "2023-04-19T12:20:00.000Z",
+            "value": "Luxury Commercial Space Located in San Francisco’s Exclusive Presidio Heights Neighborhood.​ Recently Renovated to House a High-end Architectural Firm, The Space Features High End Finishes, a Full Bathroom With Shower, Recessed Lighting, Finished Concrete and Hardwood Floors, and Beautiful Wood Trim Throughout.​ Currently Owned as a Tenancy-in-common, the Property Owner is In the Final Stages of a Condominium Conversion.​"
+          }
+        ],
+        "features": [
+          {
+            "value": [
+              "B"
+            ],
+            "key": "Building Class"
+          },
+          {
+            "value": [
+              "441,081"
+            ],
+            "key": "2010 Population (3 Mile)"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "1,781"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "525,153"
+            ],
+            "key": "Employees (3 Mile)"
+          },
+          {
+            "value": [
+              "836,448"
+            ],
+            "key": "2024 Population (5 Mile)"
+          },
+          {
+            "value": [
+              "26 min"
+            ],
+            "key": "San Francisco International Airport (Drive)"
+          },
+          {
+            "value": [
+              "499,388"
+            ],
+            "key": "Total Population (3 Mile)"
+          },
+          {
+            "value": [
+              "$974,023"
+            ],
+            "key": "Average Housing Unit Value (3 Mile)"
+          },
+          {
+            "value": [
+              "Owner User"
+            ],
+            "key": "Sale Type"
+          },
+          {
+            "value": [
+              "90,387"
+            ],
+            "key": "2024 Population (1 Mile)"
+          },
+          {
+            "value": [
+              "8 min"
+            ],
+            "key": "San Francisco 4th & King Commuter Rail (Caltrain) (Drive)"
+          },
+          {
+            "value": [
+              "4.8 mi",
+              "4.9 mi"
+            ],
+            "key": "22nd Street Commuter Rail (Caltrain) (Distance)"
+          },
+          {
+            "value": [
+              "39%"
+            ],
+            "key": "Percent College Degree or Above (1 Mile)"
+          },
+          {
+            "value": [
+              "$144,412"
+            ],
+            "key": "Average Household Income (3 Mile)"
+          },
+          {
+            "value": [
+              "38.7"
+            ],
+            "key": "Median Age (3 Mile)"
+          },
+          {
+            "value": [
+              "56,746",
+              "$959,557",
+              "355,346",
+              "795,502",
+              "623,723",
+              "32%",
+              "836,448",
+              "$146,181",
+              "38.9",
+              "$117,204",
+              "$11.1B",
+              "712,946"
+            ],
+            "key": "(5 Mile)"
+          },
+          {
+            "value": [
+              "45,640"
+            ],
+            "key": "Households (1 Mile)"
+          },
+          {
+            "value": [
+              "35%",
+              "38.7",
+              "46,723",
+              "525,153",
+              "$115,181",
+              "441,081",
+              "526,289",
+              "499,388",
+              "250,081",
+              "$7.4B",
+              "$974,023",
+              "$144,412"
+            ],
+            "key": "(3 Mile)"
+          },
+          {
+            "value": [
+              "37.8"
+            ],
+            "key": "Median Age (1 Mile)"
+          },
+          {
+            "value": [
+              "75,086"
+            ],
+            "key": "2010 Population (1 Mile)"
+          },
+          {
+            "value": [
+              "$115,181"
+            ],
+            "key": "Median Household Income (3 Mile)"
+          },
+          {
+            "value": [
+              "2,969 SF"
+            ],
+            "key": "Rentable Building Area"
+          },
+          {
+            "value": [
+              "7,151"
+            ],
+            "key": "Total Businesses (1 Mile)"
+          },
+          {
+            "value": [
+              "32%"
+            ],
+            "key": "Percent College Degree or Above (5 Mile)"
+          },
+          {
+            "value": [
+              "$7.4B"
+            ],
+            "key": "Total Consumer Spending (3 Mile)"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Executive Office"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Investment Highlights",
+            "value": [
+              "​High-end Finishes Throughout",
+              "​Recently Renovated Retail/office Space",
+              "​Finished Concrete and Hardwood Flooring",
+              "​In Process of Condominium Conversion",
+              "​Located on the Corner of Sacramento and Divisadero Streets",
+              "​Open Floor Plan With Abundant Natural Light",
+              "​Lease/option or Seller Financing Available"
+            ]
+          },
+          {
+            "key": "Tenancy",
+            "value": [
+              "Vacant"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "526,289"
+            ],
+            "key": "2024 Population (3 Mile)"
+          },
+          {
+            "value": [
+              "Insane Location With A Walk Score Of 98, Just Steps To Spectacular Retail, Restaurants, Cafes, Shops, And Alta Plaza Park."
+            ],
+            "key": "Highlights"
+          },
+          {
+            "value": [
+              "623,723"
+            ],
+            "key": "Employees (5 Mile)"
+          },
+          {
+            "value": [
+              "712,946"
+            ],
+            "key": "2010 Population (5 Mile)"
+          },
+          {
+            "value": [
+              "355,346"
+            ],
+            "key": "Households (5 Mile)"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "10 min"
+            ],
+            "key": "22nd Street Commuter Rail (Caltrain) (Drive)"
+          },
+          {
+            "value": [
+              "$146,181"
+            ],
+            "key": "Average Household Income (5 Mile)"
+          },
+          {
+            "value": [
+              "38.9"
+            ],
+            "key": "Median Age (5 Mile)"
+          },
+          {
+            "value": [
+              "$11.1B"
+            ],
+            "key": "Total Consumer Spending (5 Mile)"
+          },
+          {
+            "key": "Lease Type",
+            "value": [
+              "NNN"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "$159,059"
+            ],
+            "key": "Average Household Income (1 Mile)"
+          },
+          {
+            "value": [
+              "$959,557"
+            ],
+            "key": "Average Housing Unit Value (5 Mile)"
+          },
+          {
+            "value": [
+              "56,746"
+            ],
+            "key": "Total Businesses (5 Mile)"
+          },
+          {
+            "value": [
+              "35%"
+            ],
+            "key": "Percent College Degree or Above (3 Mile)"
+          },
+          {
+            "value": [
+              "85,669"
+            ],
+            "key": "Total Population (1 Mile)"
+          },
+          {
+            "value": [
+              "$117,204"
+            ],
+            "key": "Median Household Income (5 Mile)"
+          },
+          {
+            "value": [
+              "57,719"
+            ],
+            "key": "Employees (1 Mile)"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "1,781"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "15.4 mi",
+              "15.3 mi"
+            ],
+            "key": "San Francisco International Airport (Distance)"
+          },
+          {
+            "value": [
+              "46,723"
+            ],
+            "key": "Total Businesses (3 Mile)"
+          },
+          {
+            "value": [
+              "22.3 mi"
+            ],
+            "key": "Oakland International Airport (Distance)"
+          },
+          {
+            "value": [
+              "3.2 mi",
+              "3.3 mi"
+            ],
+            "key": "San Francisco 4th & King Commuter Rail (Caltrain) (Distance)"
+          },
+          {
+            "value": [
+              "$1.4B"
+            ],
+            "key": "Total Consumer Spending (1 Mile)"
+          },
+          {
+            "value": [
+              "36 min"
+            ],
+            "key": "Oakland International Airport (Drive)"
+          },
+          {
+            "value": [
+              "250,081"
+            ],
+            "key": "Households (3 Mile)"
+          },
+          {
+            "value": [
+              "90,387",
+              "7,151",
+              "$131,736",
+              "$973,615",
+              "85,669",
+              "37.8",
+              "57,719",
+              "75,086",
+              "45,640",
+              "$159,059",
+              "$1.4B",
+              "39%"
+            ],
+            "key": "(1 Mile)"
+          },
+          {
+            "value": [
+              "$131,736"
+            ],
+            "key": "Median Household Income (1 Mile)"
+          },
+          {
+            "value": [
+              "$973,615"
+            ],
+            "key": "Average Housing Unit Value (1 Mile)"
+          },
+          {
+            "value": [
+              "795,502"
+            ],
+            "key": "Total Population (5 Mile)"
+          }
+        ],
+        "geoLocation": "POINT (-122.4403306 37.7889239)",
+        "latitude": "37.7889239",
+        "listingName": "2062 Divisadero St",
+        "longitude": "-122.4403306",
+        "lotSizeValue": 0.26,
+        "lotSizeUnit": "acs",
+        "managedBy": [
+          {
+            "dateSeen": "2019-10-28T17:44:08.045Z",
+            "value": "Polaris Realty"
+          }
+        ],
+        "mostRecentBrokerAgent": "Ron Abta",
+        "mostRecentBrokerCompany": "Polaris Realty",
+        "mostRecentBrokerPhones": [
+          "14155957661"
+        ],
+        "mostRecentBrokerDateSeen": "2019-10-28T17:44:08.042Z",
+        "mostRecentPriceAmount": 1995000,
+        "mostRecentPriceDomain": "www.loopnet.com",
+        "mostRecentPriceFirstDateSeen": "2019-06-28T04:22:00.000Z",
+        "mostRecentStatus": "For Sale",
+        "mostRecentStatusDate": "2023-11-11T13:04:17.594Z",
+        "mostRecentStatusFirstDateSeen": "2023-10-11T22:25:06.480Z",
+        "numFloor": 1,
+        "phones": [
+          "+1 415-595-7661"
+        ],
+        "postalCode": "94115",
+        "prices": [
+          {
+            "amountMax": 1995000,
+            "amountMin": 1995000,
+            "availability": "true",
+            "currency": "USD",
+            "dateSeen": [
+              "2019-07-05T22:43:00.000Z",
+              "2019-07-02T18:21:00.000Z",
+              "2019-07-09T06:17:00.000Z",
+              "2019-06-28T04:22:00.000Z",
+              "2019-06-30T04:27:00.000Z"
+            ],
+            "firstDateSeen": "2019-06-28T04:22:00.000Z",
+            "lastDateSeen": "2019-07-09T06:17:00.000Z",
+            "domain": "www.loopnet.com",
+            "isSold": "false"
+          }
+        ],
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-04-15T21:18:37.821Z"
+            ],
+            "firstDateSeen": "2023-04-15T21:18:37.821Z",
+            "lastDateSeen": "2023-04-15T21:18:37.821Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-03-23T00:35:57.423Z"
+            ],
+            "firstDateSeen": "2023-03-23T00:35:57.423Z",
+            "lastDateSeen": "2023-03-23T00:35:57.423Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-02T09:06:39.836Z"
+            ],
+            "firstDateSeen": "2023-04-02T09:06:39.836Z",
+            "lastDateSeen": "2023-04-02T09:06:39.836Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-04-01T02:32:00.870Z"
+            ],
+            "firstDateSeen": "2023-04-01T02:32:00.870Z",
+            "lastDateSeen": "2023-04-01T02:32:00.870Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-02T21:59:36.580Z"
+            ],
+            "firstDateSeen": "2023-04-02T21:59:36.580Z",
+            "lastDateSeen": "2023-04-02T21:59:36.580Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-04T01:43:25.408Z"
+            ],
+            "firstDateSeen": "2023-04-04T01:43:25.408Z",
+            "lastDateSeen": "2023-04-04T01:43:25.408Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-04-05T04:18:56.996Z"
+            ],
+            "firstDateSeen": "2023-04-05T04:18:56.996Z",
+            "lastDateSeen": "2023-04-05T04:18:56.996Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-03-31T14:58:37.247Z"
+            ],
+            "firstDateSeen": "2023-03-31T14:58:37.247Z",
+            "lastDateSeen": "2023-03-31T14:58:37.247Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-03-28T01:35:42.742Z"
+            ],
+            "firstDateSeen": "2023-03-28T01:35:42.742Z",
+            "lastDateSeen": "2023-03-28T01:35:42.742Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-03-24T18:56:13.013Z",
+              "2023-03-26T00:00:55.720Z"
+            ],
+            "firstDateSeen": "2023-03-24T18:56:13.013Z",
+            "lastDateSeen": "2023-03-26T00:00:55.720Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-04-13T05:31:56.370Z"
+            ],
+            "firstDateSeen": "2023-04-13T05:31:56.370Z",
+            "lastDateSeen": "2023-04-13T05:31:56.370Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-03-26T01:40:51.050Z"
+            ],
+            "firstDateSeen": "2023-03-26T01:40:51.050Z",
+            "lastDateSeen": "2023-03-26T01:40:51.050Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-11T20:29:21.606Z"
+            ],
+            "firstDateSeen": "2023-04-11T20:29:21.606Z",
+            "lastDateSeen": "2023-04-11T20:29:21.606Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-17T16:33:23.359Z"
+            ],
+            "firstDateSeen": "2023-04-17T16:33:23.359Z",
+            "lastDateSeen": "2023-04-17T16:33:23.359Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-07T05:08:08.444Z"
+            ],
+            "firstDateSeen": "2023-04-07T05:08:08.444Z",
+            "lastDateSeen": "2023-04-07T05:08:08.444Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-05T21:23:23.422Z"
+            ],
+            "firstDateSeen": "2023-04-05T21:23:23.422Z",
+            "lastDateSeen": "2023-04-05T21:23:23.422Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-10-23T14:31:45.005Z",
+              "2023-10-03T02:33:21.694Z",
+              "2023-10-05T20:41:22.494Z",
+              "2023-11-10T04:22:28.415Z",
+              "2023-10-16T04:09:24.790Z",
+              "2023-10-28T01:55:01.378Z",
+              "2023-10-04T05:23:58.294Z",
+              "2023-10-29T12:29:18.043Z",
+              "2023-10-14T20:08:16.206Z",
+              "2023-10-07T07:51:29.496Z",
+              "2023-10-17T11:44:36.875Z",
+              "2023-09-29T01:49:26.947Z",
+              "2023-09-27T17:40:55.588Z",
+              "2023-11-07T00:58:56.234Z",
+              "2023-10-10T07:26:34.945Z",
+              "2023-10-25T03:55:09.112Z",
+              "2023-10-19T05:01:19.378Z",
+              "2023-10-26T11:29:51.696Z",
+              "2023-10-08T16:54:27.377Z",
+              "2023-10-22T01:55:49.644Z"
+            ],
+            "firstDateSeen": "2023-07-24T15:05:02.384Z",
+            "lastDateSeen": "2023-11-10T04:22:28.415Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-14T20:50:52.239Z"
+            ],
+            "firstDateSeen": "2023-04-14T20:50:52.239Z",
+            "lastDateSeen": "2023-04-14T20:50:52.239Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-03-27T21:10:55.617Z"
+            ],
+            "firstDateSeen": "2023-03-27T21:10:55.617Z",
+            "lastDateSeen": "2023-03-27T21:10:55.617Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2019-08-15T07:09:12.588Z",
+              "2019-11-02T22:06:41.607Z",
+              "2019-10-11T17:34:17.990Z",
+              "2019-09-18T22:00:36.072Z",
+              "2019-08-20T20:13:03.807Z",
+              "2019-10-17T10:09:41.519Z",
+              "2019-10-28T17:44:08.041Z",
+              "2019-09-13T06:42:32.518Z",
+              "2019-07-26T22:56:57.668Z",
+              "2019-10-07T04:07:55.868Z",
+              "2019-06-30T04:27:00.000Z",
+              "2019-08-02T23:15:54.897Z",
+              "2019-09-01T00:29:31.417Z",
+              "2019-07-05T22:43:00.000Z",
+              "2019-07-02T18:21:00.000Z",
+              "2019-07-09T06:17:00.000Z",
+              "2019-08-25T19:04:37.771Z",
+              "2019-09-09T16:31:32.674Z",
+              "2019-06-28T04:22:00.000Z",
+              "2023-07-03T08:33:06.790Z",
+              "2019-09-06T18:30:11.676Z",
+              "2019-08-07T21:03:38.327Z",
+              "2019-10-19T16:59:06.249Z",
+              "2019-08-11T10:01:44.048Z",
+              "2019-10-03T05:16:25.648Z",
+              "2019-07-12T13:41:00.000Z",
+              "2019-08-05T11:28:23.578Z",
+              "2019-07-21T21:37:00.000Z",
+              "2019-10-23T02:53:40.932Z",
+              "2019-07-15T18:12:00.000Z",
+              "2019-07-31T09:10:30.669Z"
+            ],
+            "firstDateSeen": "2019-06-28T04:22:00.000Z",
+            "lastDateSeen": "2023-07-03T08:33:06.790Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-05-24T23:38:28.672Z",
+              "2023-05-20T04:53:30.248Z",
+              "2023-05-30T13:20:02.793Z",
+              "2023-05-29T08:47:46.171Z",
+              "2023-05-18T16:50:05.658Z",
+              "2023-05-26T04:16:24.830Z",
+              "2023-06-01T00:27:41.950Z",
+              "2023-05-17T12:25:04.644Z",
+              "2023-05-15T22:08:54.521Z"
+            ],
+            "firstDateSeen": "2023-04-23T23:00:01.417Z",
+            "lastDateSeen": "2023-06-01T00:27:41.950Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-19T12:20:23.769Z",
+              "2023-04-17T22:26:00.582Z"
+            ],
+            "firstDateSeen": "2023-04-17T22:26:00.582Z",
+            "lastDateSeen": "2023-04-19T12:20:23.769Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-05-05T11:22:27.615Z",
+              "2023-05-02T16:39:48.204Z",
+              "2023-05-08T17:53:18.990Z",
+              "2023-05-06T22:15:46.298Z",
+              "2023-05-10T02:24:54.330Z"
+            ],
+            "firstDateSeen": "2023-04-21T01:35:41.844Z",
+            "lastDateSeen": "2023-05-10T02:24:54.330Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-11-11T13:04:17.594Z"
+            ],
+            "firstDateSeen": "2023-10-11T22:25:06.480Z",
+            "lastDateSeen": "2023-11-11T13:04:17.594Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-16T10:09:17.895Z"
+            ],
+            "firstDateSeen": "2023-04-16T10:09:17.895Z",
+            "lastDateSeen": "2023-04-16T10:09:17.895Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-04-27T18:01:37.548Z"
+            ],
+            "firstDateSeen": "2023-04-27T18:01:37.548Z",
+            "lastDateSeen": "2023-04-27T18:01:37.548Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-13T17:37:30.367Z"
+            ],
+            "firstDateSeen": "2023-04-13T17:37:30.367Z",
+            "lastDateSeen": "2023-04-13T17:37:30.367Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-08-05T07:16:04.856Z",
+              "2023-08-11T07:54:18.411Z",
+              "2023-08-09T21:55:48.691Z",
+              "2023-08-12T21:36:22.604Z",
+              "2023-08-03T19:06:37.986Z",
+              "2023-08-14T12:03:29.991Z",
+              "2023-08-08T02:39:23.518Z",
+              "2023-08-06T20:03:48.748Z",
+              "2023-08-02T07:22:01.648Z",
+              "2023-09-23T11:13:10.409Z"
+            ],
+            "firstDateSeen": "2023-07-19T21:27:00.577Z",
+            "lastDateSeen": "2023-09-23T11:13:10.409Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-07-18T08:04:42.343Z",
+              "2023-07-16T23:21:49.758Z",
+              "2023-06-16T14:31:24.040Z",
+              "2023-06-30T01:25:41.663Z",
+              "2023-06-07T00:01:43.656Z",
+              "2023-07-22T21:04:11.629Z",
+              "2023-07-11T19:30:51.540Z",
+              "2023-07-01T14:35:26.572Z",
+              "2023-07-06T15:34:38.763Z",
+              "2023-07-15T08:55:29.902Z",
+              "2023-07-13T19:09:57.470Z",
+              "2023-07-04T22:15:09.875Z",
+              "2023-06-23T09:03:50.803Z",
+              "2023-06-26T15:02:38.862Z",
+              "2023-06-25T01:49:45.028Z",
+              "2023-06-20T01:22:18.659Z",
+              "2023-07-10T01:30:36.281Z",
+              "2023-07-21T13:01:00.235Z",
+              "2023-06-15T04:12:49.698Z",
+              "2023-07-28T21:10:44.362Z",
+              "2023-06-28T18:24:54.976Z",
+              "2023-06-18T08:34:34.749Z"
+            ],
+            "firstDateSeen": "2023-05-21T19:48:03.842Z",
+            "lastDateSeen": "2023-07-28T21:10:44.362Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-04-11T19:15:24.893Z"
+            ],
+            "firstDateSeen": "2023-04-11T19:15:24.893Z",
+            "lastDateSeen": "2023-04-11T19:15:24.893Z",
+            "type": "Rental"
+          }
+        ],
+        "yearBuilt": 1900,
+        "id": "AWucUSs4Y7ir8pkr5yw_"
+      },
+      {
+        "address": "2124 Fillmore",
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2023-09-20T02:34:38Z",
+        "dateUpdated": "2023-11-11T11:46:52Z",
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "1,257"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Commercial"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "2,557"
+            ],
+            "replace": "true"
+          }
+        ],
+        "geoLocation": "POINT (-122.4336999 37.7894976)",
+        "latitude": "37.7894976",
+        "longitude": "-122.4336999",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusFirstDateSeen": "2023-09-20T02:34:38.627Z",
+        "postalCode": "94115",
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-10-27T17:44:35.716Z",
+              "2023-10-20T17:47:54.787Z",
+              "2023-09-21T14:12:32.969Z",
+              "2023-09-20T02:34:38.627Z",
+              "2023-10-26T08:20:49.770Z",
+              "2023-10-16T12:05:10.393Z",
+              "2023-11-10T02:27:43.177Z",
+              "2023-10-09T14:43:46.777Z",
+              "2023-10-23T10:56:44.237Z",
+              "2023-10-17T14:56:13.440Z",
+              "2023-10-30T08:06:44.600Z",
+              "2023-10-22T04:24:26.145Z",
+              "2023-10-28T23:13:37.574Z",
+              "2023-10-24T23:57:56.098Z",
+              "2023-10-10T20:32:34.417Z",
+              "2023-11-06T07:49:45.113Z",
+              "2023-10-19T09:22:18.739Z"
+            ],
+            "firstDateSeen": "2023-09-20T02:34:38.627Z",
+            "lastDateSeen": "2023-11-10T02:27:43.177Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-11-11T11:46:51.521Z"
+            ],
+            "firstDateSeen": "2023-10-19T09:22:18.739Z",
+            "lastDateSeen": "2023-11-11T11:46:51.521Z",
+            "type": "Rental"
+          }
+        ],
+        "id": "rh9wsIoB3hcw0YbIhCuy"
+      },
+      {
+        "address": "2053 Fillmore St",
+        "brokers": [
+          {
+            "agent": "Pamela Mendelsohn",
+            "company": "Maven Commercial, Inc.",
+            "dateSeen": "2021-04-25T06:27:00.000Z",
+            "emails": [
+              "pamelalmendelsohn@gmail.com"
+            ],
+            "phones": [
+              "4155180893"
+            ]
+          }
+        ],
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2020-06-13T14:51:14Z",
+        "dateUpdated": "2023-11-11T11:34:25Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T11:34:00.000Z",
+            "value": "2053 Fillmore Street is Located on One of the Most Exclusive Shopping Blocks in San Francisco’s Pacific Heights Neighborhood.​ The Surrounding Area Has the Highest Average Household Income in All of San Francisco.​ The Space is Proximately Located Near the Busy Corner of Fillmore and California, With Close Proximity to Arking and Public Transportation.​ This Walkable Tree-lined Block is Home to Rag and Bone, Space Nk, James Perse, Noosh and Many Other Well-known Tenants.​"
+          },
+          {
+            "dateSeen": "2021-03-10T06:02:00.000Z",
+            "value": "2053 Fillmore is located on one of the most exclusive shopping blocks in San Francisco’s Pacific Heights neighborhood. The surrounding area has the highest average household income in all of San Francisco. The space is proximately located near the busy corner of Fillmore and California, with close proximity to park-ing and public transportation. This walkable tree-lined block is home to Rag and Bone, Space NK, James Perse, Noosh and many other well-known tenants. Features +/- 685 SF Elegant storefront with large display window Large signage block with potential for additional blade signage Excellent visibility from California and Fillmore Streets Move-in condition Nearby neighbors include Credo, Reformation, Goop, Gorjana, Jane, and many others."
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "PROPERTY TYPE",
+            "value": [
+              "Retail"
+            ]
+          },
+          {
+            "key": "TOTAL BUILDING SIZE",
+            "value": [
+              "6,983 SF"
+            ]
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "685"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "ZONING",
+            "value": [
+              "C2, San Francisco"
+            ]
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Commercial"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "685"
+            ],
+            "replace": "true"
+          }
+        ],
+        "floorSizeValue": 685,
+        "floorSizeUnit": "sq ft",
+        "geoLocation": "POINT (-122.4339758 37.7887113)",
+        "latitude": "37.7887113",
+        "leasingTerms": [
+          {
+            "dateSeen": "2021-04-25T06:27:00.000Z",
+            "value": "Length: Negotiable"
+          },
+          {
+            "dateSeen": "2021-04-25T06:27:00.000Z",
+            "value": "Negotiable"
+          }
+        ],
+        "longitude": "-122.4339758",
+        "lotSizeValue": 0.0964,
+        "lotSizeUnit": "acs",
+        "mostRecentBrokerAgent": "Pamela Mendelsohn",
+        "mostRecentBrokerCompany": "Maven Commercial, Inc.",
+        "mostRecentBrokerEmails": [
+          "pamelalmendelsohn@gmail.com"
+        ],
+        "mostRecentBrokerPhones": [
+          "4155180893"
+        ],
+        "mostRecentBrokerDateSeen": "2021-04-25T06:27:00.000Z",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T11:34:25.607Z",
+        "mostRecentStatusFirstDateSeen": "2023-09-22T22:36:37.188Z",
+        "postalCode": "94115",
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-10-15T00:08:40.099Z",
+              "2023-11-10T02:23:46.850Z",
+              "2023-11-11T11:34:25.607Z",
+              "2023-10-17T14:45:43.551Z",
+              "2023-09-24T04:40:14.979Z",
+              "2023-09-22T22:36:37.188Z",
+              "2023-10-16T11:57:17.124Z",
+              "2023-10-06T21:59:36.131Z",
+              "2023-10-08T06:21:27.606Z",
+              "2023-10-20T17:38:42.708Z",
+              "2023-10-13T18:21:35.500Z",
+              "2023-10-19T09:13:46.133Z",
+              "2023-11-06T03:57:22.895Z",
+              "2023-10-05T10:37:51.137Z",
+              "2023-10-12T09:58:57.196Z",
+              "2023-10-04T04:56:00.035Z"
+            ],
+            "firstDateSeen": "2023-09-22T22:36:37.188Z",
+            "lastDateSeen": "2023-11-11T11:34:25.607Z",
+            "type": "Rental"
+          }
+        ],
+        "yearBuilt": 1905,
+        "zoning": "C2, San Francisco",
+        "id": "RIcprnIBA7mjcpg9zGrp"
+      },
+      {
+        "address": "1737 Post St East",
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2023-03-26T15:33:45Z",
+        "dateUpdated": "2023-11-11T11:34:24Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T11:34:00.000Z",
+            "value": "Opportunity to Lease One of the Best Retail Spaces in San Francisco's Legendary and Busy Japantown.​ This Space Features Floor to Ceiling Glass on 3 Sides, Extraordinary Views of the Pagoda and Peace Plaza, and a Spacious Floor Plan.​ One of Three Remaining in the United States, Japantown Consists of About Six Square City Blocks in San Francisco.​ Japan Center East & West Are Located in the Heart of Japantown and Include Over 100,000 Square Feet of Shops and Restaurants.​ Japan Center Retail Sites Can Accommodate Both Large and Small Businesses, Ranging in Size From as Little as 300 to as Large as 15,000 Square Feet.​ Japan Center Represents Japanese Culture With One-of-a-kind Retailers and Restaurants.​ The Center is Welcome to All but Strives to Preserve a Culture That Deeply Contributes to San Francisco's History.​ The Property is Easily Accessible by Public Transportation, and Also Contains Ample Underground and Street Parking.​"
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Single"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "4,109"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Shopping Center"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "4,109"
+            ],
+            "replace": "true"
+          }
+        ],
+        "geoLocation": "POINT (-122.4291175 37.7852719)",
+        "latitude": "37.7852719",
+        "longitude": "-122.4291175",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T11:34:24.979Z",
+        "mostRecentStatusFirstDateSeen": "2023-10-22T04:16:15.232Z",
+        "postalCode": "94115",
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-10-10T20:24:15.010Z",
+              "2023-10-09T14:36:19.936Z",
+              "2023-04-02T20:14:43.791Z",
+              "2023-03-30T00:08:31.070Z",
+              "2023-09-24T04:40:14.026Z",
+              "2023-09-22T22:36:36.434Z",
+              "2023-04-04T14:58:44.499Z",
+              "2023-03-26T15:33:45.602Z",
+              "2023-10-24T23:51:44.973Z",
+              "2023-10-22T04:16:15.232Z",
+              "2023-10-27T17:34:13.265Z",
+              "2023-11-10T02:23:45.794Z",
+              "2023-10-13T18:21:43.620Z",
+              "2023-03-31T22:32:01.190Z",
+              "2023-10-23T10:46:00.757Z",
+              "2023-10-20T17:38:43.730Z",
+              "2023-09-25T13:11:22.077Z",
+              "2023-10-30T07:57:46.186Z",
+              "2023-10-28T23:05:46.398Z",
+              "2023-09-27T03:42:41.774Z",
+              "2023-11-06T03:57:08.844Z",
+              "2023-10-06T21:59:31.079Z",
+              "2023-10-08T06:21:26.630Z",
+              "2023-03-28T03:36:58.183Z",
+              "2023-10-26T08:11:56.261Z",
+              "2023-10-12T09:58:54.938Z",
+              "2023-10-05T10:37:52.993Z"
+            ],
+            "firstDateSeen": "2023-03-26T15:33:45.602Z",
+            "lastDateSeen": "2023-11-10T02:23:45.794Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-11-11T11:34:24.979Z"
+            ],
+            "firstDateSeen": "2023-10-22T04:16:15.232Z",
+            "lastDateSeen": "2023-11-11T11:34:24.979Z",
+            "type": "Rental"
+          }
+        ],
+        "id": "n7uNHocByN4LkFz_2vAf"
+      },
+      {
+        "address": "2261 Fillmore St",
+        "assessedValues": [
+          {
+            "year": 2023,
+            "totalAmount": 1609075,
+            "landAmount": 742649,
+            "improvementsAmount": 866426
+          }
+        ],
+        "brokers": [
+          {
+            "agent": "Pamela Mendelsohn",
+            "company": "Maven Commercial, Inc.",
+            "dateSeen": "2023-11-02T18:02:08.636Z",
+            "emails": [
+              "pamelalmendelsohn@gmail.com"
+            ],
+            "phones": [
+              "4155180893"
+            ]
+          },
+          {
+            "agent": "Sarah Brett Schwartz",
+            "company": "Maven Commercial, Inc.",
+            "dateSeen": "2021-12-12T06:43:00.000Z",
+            "emails": [
+              "sarah@mavenproperties.com"
+            ],
+            "phones": [
+              "4154046959"
+            ]
+          }
+        ],
+        "categories": [
+          "Commercial",
+          "THEATER (MOVIE)"
+        ],
+        "cbsaName": "SAN FRANCISCO-OAKLAND-FREMONT, CA METROPOLITAN STATISTICAL AREA",
+        "cbsaCode": 41860,
+        "censusBlock": 3001,
+        "censusBlockGroup": 3,
+        "censusTract": 13500,
+        "city": "San Francisco",
+        "civilDivisionCode": 92605,
+        "civilDivisionName": "RICHMOND-PRESIDIO-MARINA",
+        "congressionalDistrictHouse": 72,
+        "country": "US",
+        "county": "San Francisco",
+        "countyFIPS": 6075,
+        "currentOwnerType": "COMPANY",
+        "dateAdded": "2020-04-25T00:26:29Z",
+        "dateUpdated": "2023-11-11T11:21:16Z",
+        "descriptions": [
+          {
+            "dateSeen": "2021-03-03T05:26:00.000Z",
+            "value": "Rare opportunity to occupy a large footprint on San Francisco’s Upper Fillmore Street. 2261 Fillmore Street is located on one of the prestigious shopping blocks in San Francisco’s Pacific Heights neighborhood. Frame, Reformation, Veronica Beard, Gorjana, and Rag & Bone are just some of the hot shops dotting the district. Upper Fillmore is also home to some of San Francisco’s best restaurants such as SPQR, Woodhouse Fish Co., and Noosh. The space features massive ceilings, rear loading, and incredibly visibility on one of San Francisco’s best shopping streets. Theater uses encouraged, but landlord open to a variety of uses. Features +/- 4,662 SF + 1,013 SF Mezzanine Located in the heart of San Franciscos prestigious Upper Fillmore District Vast ceilings Rear exiting & loading possible Landlord supportive of all theater uses, but open to a variety of other uses as well. Close proximity to some of San Franciscos best restauranteurs and retailers, such as SPQR, Rag & Bone, Gorjana, Veronica Beard, Woodhouse Fish, and more."
+          },
+          {
+            "dateSeen": "2023-11-02T18:02:00.000Z",
+            "value": "Rare opportunity to occupy a large footprint on San Francisco’s Upper Fillmore Street. 2261 Fillmore Street is located on one of the prestigious shopping blocks in San Francisco’s Pacific Heights neighborhood. Frame, Reformation, Veronica Beard, Gorjana, and Rag & Bone are just some of the hot shops dotting the district. Upper Fillmore is also home to some of San Francisco’s best restaurants such as SPQR, Woodhouse Fish Co., and Noosh. The space features massive ceilings, rear loading, and incredibly visibility on one of San Francisco’s best shopping streets. Theater uses encouraged, but landlord open to a variety of uses.Features+/- 4,662 SF + 1,013 SF MezzanineLocated in the heart of San Franciscos prestigious Upper Fillmore DistrictVast ceilingsRear exiting & loading possibleLandlord supportive of all theater uses, but open to a variety of other uses as well.Close proximity to some of San Franciscos best restauranteurs and retailers, such as SPQR, Rag & Bone, Gorjana, Veronica Beard, Woodhouse Fish, and more.Rare opportunity to occupy a large footprint on San Francisco’s Upper Fillmore Street. 2261 Fillmore Street is located on one of the prestigious shopping blocks in San Francisco’s Pacific Heights neighborhood. Frame, Reformation, Veronica Beard, Gorjana, and Rag & Bone are just some of the hot shops dotting the district. Upper Fillmore is also home to some of San Francisco’s best restaurants such as SPQR, Woodhouse Fish Co., and Noosh. The space features massive ceilings, rear loading, and incredibly visibility on one of San Francisco’s best shopping streets. Theater uses encouraged, but landlord open to a variety of uses.Features+/- 4,662 SF + 1,013 SF MezzanineLocated in the heart of San Franciscos prestigious Upper Fillmore DistrictVast ceilingsRear exiting & loading possibleLandlord supportive of all theater uses, but open to a variety of other uses as well.Close proximity to some of San Franciscos best restauranteurs and retailers, such as SPQR, Rag & Bone, Gorjana, Veronica Beard, Woodhouse Fish, and more."
+          },
+          {
+            "dateSeen": "2023-04-20T00:08:00.000Z",
+            "value": "Rare Opportunity to Occupy a Large Footprint on San Franciscoâ€™s Upper Fillmore Street.​ 2261 Fillmore Street is Located on One of the Prestigious Shopping Blocks in San Franciscoâ€™s Pacific Heights Neighborhood.​ Frame, Reformation, Veronica Beard, Gorjana, and Rag & Bone Are Just Some of the Hot Shops Dotting the District.​ Upper Fillmore is Also Home to Some of San Franciscoâ€™s Best Restaurants Such as Spqr, Woodhouse Fish Co.​, and Noosh.​ The Space Features Massive Ceilings, Rear Loading, and Incredibly Visibility on One of San Franciscoâ€™s Best Shopping Streets.​ Theater Uses Encouraged, but Landlord Open to a Variety of Uses.​"
+          },
+          {
+            "dateSeen": "2023-11-11T11:20:00.000Z",
+            "value": "Rare Opportunity to Occupy a Large Footprint on San Francisco’s Upper Fillmore Street.​ 2261 Fillmore Street is Located on One of the Prestigious Shopping Blocks in San Franciscoâ€™s Pacific Heights Neighborhood.​ Frame, Reformation, Veronica Beard, Gorjana, and Rag & Bone Are Just Some of the Hot Shops Dotting the District.​ Upper Fillmore is Also Home to Some of San Francisco’s Best Restaurants Such as Spqr, Woodhouse Fish Co.​, and Noosh.​ The Space Features Massive Ceilings, Rear Loading, and Incredibly Visibility on One of San Francisco’s Best Shopping Streets.​ Theater Uses Encouraged, but Landlord Open to a Variety of Uses.​"
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "legalLotNumber1",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "key": "TOTAL BUILDING SIZE",
+            "value": [
+              "5,675 SF"
+            ]
+          },
+          {
+            "key": "TransferInfoPurchaseTypeCode",
+            "value": [
+              "MORTGAGE"
+            ]
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "5,204"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "jurisdiction",
+            "value": [
+              "SAN FRANCISCO"
+            ]
+          },
+          {
+            "key": "LAND SF",
+            "value": [
+              "3,920 SF"
+            ]
+          },
+          {
+            "key": "TaxAssessedImprovementsPerc",
+            "value": [
+              "53"
+            ]
+          },
+          {
+            "key": "AreaGross",
+            "value": [
+              "3400"
+            ]
+          },
+          {
+            "key": "taxes",
+            "value": [
+              "2023 - $19715"
+            ]
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "QuitclaimDocument",
+            "value": [
+              "false"
+            ]
+          },
+          {
+            "key": "SitusStateCountyFIPS",
+            "value": [
+              "6075"
+            ]
+          },
+          {
+            "key": "lotSizeValueAcres",
+            "value": [
+              "0.0863866"
+            ]
+          },
+          {
+            "key": "LAND ACRES",
+            "value": [
+              "0.08999 AC"
+            ]
+          },
+          {
+            "key": "seller_company",
+            "value": [
+              "Non Disclosed"
+            ]
+          },
+          {
+            "key": "MAX CONTIG. (BLDG)",
+            "value": [
+              "5,675 SF"
+            ]
+          },
+          {
+            "key": "Minimum Divisible SQFT",
+            "value": [
+              "760"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "5,205"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Max Contiguous SQFT",
+            "value": [
+              "4,444"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "PROPERTY TYPE",
+            "value": [
+              "Retail"
+            ]
+          },
+          {
+            "key": "Zoning",
+            "value": [
+              "Fillmore Street Neighborhood Commercial"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "legalBlock1",
+            "value": [
+              "630"
+            ]
+          },
+          {
+            "key": "CombinedStatisticalArea",
+            "value": [
+              "San Jose-San Francisco-Oakland, CA"
+            ]
+          },
+          {
+            "key": "NeighborhoodCode",
+            "value": [
+              "7B"
+            ]
+          },
+          {
+            "key": "LastAssessorTaxRollUpdate",
+            "value": [
+              "2023-07-01"
+            ]
+          },
+          {
+            "key": "recepNumber",
+            "value": [
+              "1003247698"
+            ]
+          },
+          {
+            "key": "ZONING",
+            "value": [
+              "FILLMORE",
+              "NCD"
+            ]
+          },
+          {
+            "key": "CensusFIPSPlaceCode",
+            "value": [
+              "67000"
+            ]
+          },
+          {
+            "key": "AreaBuildingDefinitionCode",
+            "value": [
+              "Total Area"
+            ]
+          },
+          {
+            "key": "MetropolitanDivision",
+            "value": [
+              "SAN FRANCISCO-SAN MATEO-REDWOOD CITY, CA METROPOLITAN DIVISION"
+            ]
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Shopping Center"
+            ],
+            "replace": "true"
+          }
+        ],
+        "floorSizeValue": 3400,
+        "floorSizeUnit": "sq ft",
+        "geoLocation": "POINT (-122.434463 37.790472)",
+        "hvacTypes": [
+          "NONE"
+        ],
+        "latitude": "37.790472",
+        "leasingTerms": [
+          {
+            "dateSeen": "2023-11-02T18:02:08.646Z",
+            "value": "Negotiable"
+          }
+        ],
+        "legalDescription": "SUBDWESTERN ADDITION",
+        "longitude": "-122.434463",
+        "lotSizeValue": 0.08999,
+        "lotSizeUnit": "acs",
+        "mostRecentBrokerAgent": "Pamela Mendelsohn",
+        "mostRecentBrokerCompany": "Maven Commercial, Inc.",
+        "mostRecentBrokerEmails": [
+          "pamelalmendelsohn@gmail.com"
+        ],
+        "mostRecentBrokerPhones": [
+          "4155180893"
+        ],
+        "mostRecentBrokerDateSeen": "2023-11-02T18:02:08.636Z",
+        "mostRecentPriceAmount": 2340000,
+        "mostRecentPriceDomain": "datafiniti.co",
+        "mostRecentPriceDate": "2012-11-21T00:00:00.000Z",
+        "mostRecentPriceFirstDateSeen": "2023-10-27T15:30:14.764Z",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T11:20:21.974Z",
+        "mostRecentStatusFirstDateSeen": "2023-11-10T02:08:13.917Z",
+        "msaName": "SAN FRANCISCO-OAKLAND-FREMONT, CA",
+        "msaCode": 41860,
+        "numBathroom": 2,
+        "numFloor": 2,
+        "postalCode": "94115",
+        "prices": [
+          {
+            "amountMax": 2340000,
+            "amountMin": 2340000,
+            "currency": "USD",
+            "date": "2012-11-21T00:00:00.000Z",
+            "dateSeen": [
+              "2023-10-27T15:30:14.764Z"
+            ],
+            "firstDateSeen": "2023-10-27T15:30:14.764Z",
+            "lastDateSeen": "2023-10-27T15:30:14.764Z",
+            "domain": "datafiniti.co",
+            "pricePerSquareFoot": 688.24
+          }
+        ],
+        "propertyType": "Retail",
+        "province": "CA",
+        "subdivision": "Western Addition",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-11-11T11:20:21.974Z",
+              "2023-11-10T02:08:13.917Z"
+            ],
+            "firstDateSeen": "2023-11-10T02:08:13.917Z",
+            "lastDateSeen": "2023-11-11T11:20:21.974Z",
+            "type": "Rental"
+          },
+          {
+            "date": "2012-11-21T00:00:00.000Z",
+            "type": "Sold"
+          }
+        ],
+        "transactions": [
+          {
+            "saleDate": "2012-11-21T00:00:00.000Z",
+            "documentType": "DEED OF TRUST",
+            "price": 2340000,
+            "buyerFirstName": "Balgobind",
+            "buyerLastName": "Jaiswal Fmly Trust 2008",
+            "lenderName": "First Republic Bank",
+            "loanType": "COMMERCIAL",
+            "loanAmount": 1950000,
+            "ownerType": "COMPANY",
+            "contactOwnerMailAddressFull": "481 KINGS MOUNTAIN RD, WOODSIDE, CA, 94062"
+          },
+          {
+            "saleDate": "2012-11-21T00:00:00.000Z",
+            "documentType": "DEED OF TRUST",
+            "price": 2340000,
+            "buyerFirstName": "Balgobind",
+            "buyerLastName": "Jaiswal Fmly Trust 2008",
+            "lenderName": "First Republic Bank",
+            "loanType": "COMMERCIAL",
+            "loanAmount": 1950000,
+            "ownerType": "COMPANY",
+            "contactOwnerMailAddressFull": "481 KINGS MOUNTAIN RD, WOODSIDE, CA, 94062"
+          }
+        ],
+        "yearBuilt": 1913,
+        "zoning": "Fillmore Street Neighborhood Commercial",
+        "id": "AXGuun5jgJi9zA4D9uAO"
+      },
+      {
+        "address": "1737 Post Street - Japan Ctr",
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2023-03-26T12:10:12Z",
+        "dateUpdated": "2023-11-11T10:21:57Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T10:22:00.000Z",
+            "value": "Maven Retail Has Been Selected to Represent Japan Center East and West, Located in the Heart of San Francisco's Japantown.​ One of Three Remaining in the United States, Japantown Consists of About Six Square City Blocks in San Francisco.​ Japan Center East & West Are Located in the Heart of Japantown and Include Over 100,000 Square Feet of Shops and Restaurants.​ Japan Center Retail Sites Can Accommodate Both Large and Small Businesses, Ranging in Size From as Little as 300 to as Large as 15,000 Square Feet.​ Japan Center Represents Japanese Culture With One-of-a-kind Retailers and Restaurants.​ The Center is Welcome to All, but Strives to Preserve a Culture That Deeply Contributes to San Francisco's History.​ The Property is Easily Accessible by Public Transportation, and Also Contains Ample Underground and Street Parking.​"
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Max Contiguous SQFT",
+            "value": [
+              "20,000"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building Suites",
+            "value": [
+              "9"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "17,984"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Minimum Divisible SQFT",
+            "value": [
+              "300"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Strip Center"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "100,000"
+            ],
+            "replace": "true"
+          }
+        ],
+        "geoLocation": "POINT (-122.4294444 37.7852778)",
+        "latitude": "37.7852778",
+        "longitude": "-122.4294444",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T10:21:57.715Z",
+        "mostRecentStatusFirstDateSeen": "2023-03-28T00:36:29.777Z",
+        "postalCode": "94115",
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-04-02T18:30:41.947Z",
+              "2023-10-04T03:57:57.951Z",
+              "2023-09-20T01:20:15.442Z",
+              "2023-09-24T03:36:14.309Z",
+              "2023-09-22T21:31:02.464Z",
+              "2023-03-26T12:10:12.513Z",
+              "2023-04-18T01:06:25.452Z",
+              "2023-03-31T19:00:06.061Z",
+              "2023-09-27T02:39:17.257Z",
+              "2023-10-06T21:00:35.597Z",
+              "2023-04-19T22:31:17.636Z",
+              "2023-09-25T12:07:29.264Z",
+              "2023-04-06T11:48:04.321Z",
+              "2023-10-08T05:21:08.300Z",
+              "2023-09-28T08:46:59.949Z",
+              "2023-10-05T09:36:12.139Z",
+              "2023-09-21T12:59:17.135Z",
+              "2023-04-04T12:32:47.173Z"
+            ],
+            "firstDateSeen": "2023-03-26T12:10:12.513Z",
+            "lastDateSeen": "2023-10-08T05:21:08.300Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-10-26T07:12:52.800Z",
+              "2023-10-17T13:45:58.581Z",
+              "2023-10-16T10:57:59.457Z",
+              "2023-10-22T03:09:12.314Z",
+              "2023-10-12T08:55:13.596Z",
+              "2023-10-28T22:05:08.355Z",
+              "2023-10-30T06:45:56.580Z",
+              "2023-10-14T23:09:34.746Z",
+              "2023-10-13T17:22:30.694Z",
+              "2023-10-19T08:01:32.325Z",
+              "2023-11-10T01:24:42.683Z",
+              "2023-10-20T16:40:19.245Z",
+              "2023-10-23T09:17:13.291Z",
+              "2023-11-11T10:21:57.715Z",
+              "2023-10-27T16:30:19.515Z",
+              "2023-10-24T22:44:02.994Z",
+              "2023-11-04T21:03:33.075Z"
+            ],
+            "firstDateSeen": "2023-03-28T00:36:29.777Z",
+            "lastDateSeen": "2023-11-11T10:21:57.715Z",
+            "type": "Rental"
+          }
+        ],
+        "id": "RrvTHYcByN4LkFz_ftPT"
+      },
+      {
+        "address": "1955 Sutter St",
+        "brokers": [
+          {
+            "agent": "Kevin Chin, Ccim",
+            "company": "Svn | Pacific Commercial Advisors",
+            "dateSeen": "2023-11-10T05:58:44.386Z",
+            "emails": [
+              "kevinc@svn.com"
+            ],
+            "phones": [
+              "4159222900",
+              "14159222900"
+            ]
+          }
+        ],
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2019-07-05T22:42:55Z",
+        "dateUpdated": "2023-11-11T10:18:08Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T10:18:00.000Z",
+            "value": "Ground Floor Retail/office Space Located in the Historic Victorian Square.​ The Space Has High Ceilings and Has Finished Hardwood Floors and Seagrass Rug.​ Use of Rear Yard Included.​ Parking Available.​"
+          },
+          {
+            "dateSeen": "2023-11-10T05:59:00.000Z",
+            "value": "Ground floor retail/office space located in the historic Victorian Square. The space has high ceilings and has finished hardwood floors and seagrass rug. Use of rear yard included. Parking available.Ground floor retail/office space located in the historic Victorian Square. The space has high ceilings and has finished hardwood floors and seagrass rug. Use of rear yard included. Parking available."
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "4.1 mi"
+            ],
+            "key": "22nd Street Commuter Rail (Caltrain) (Walk)"
+          },
+          {
+            "key": "Highlights",
+            "value": [
+              "Close to Public Transit",
+              "High Ceilings",
+              "Close To Public Transit",
+              "Yard Space Available"
+            ]
+          },
+          {
+            "key": "TOTAL BUILDING SIZE",
+            "value": [
+              "2,986 SF"
+            ]
+          },
+          {
+            "value": [
+              "0.9 mi"
+            ],
+            "key": "California and Polk Transit Stop (California Street Cable Car) (Distance)"
+          },
+          {
+            "value": [
+              "0.30 mi"
+            ],
+            "key": "Pierce St (Distance)"
+          },
+          {
+            "value": [
+              "Ofarrell St, NW",
+              "Ofarrell St, S"
+            ],
+            "key": "Webster St (Cross Street)"
+          },
+          {
+            "value": [
+              "23,035",
+              "16,867"
+            ],
+            "key": "Webster St (Traffic Vol)"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "1,320"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "0.05 mi"
+            ],
+            "key": "Post St (Distance)"
+          },
+          {
+            "value": [
+              "24 min"
+            ],
+            "key": "San Francisco International Airport (Drive)"
+          },
+          {
+            "value": [
+              "21.5 mi"
+            ],
+            "key": "Oakland International Airport (Walk)"
+          },
+          {
+            "value": [
+              "9 min"
+            ],
+            "key": "22nd Street Commuter Rail (Caltrain) (Drive)"
+          },
+          {
+            "value": [
+              "2.5 mi"
+            ],
+            "key": "San Francisco 4th & King Commuter Rail (Caltrain) (Walk)"
+          },
+          {
+            "value": [
+              "2014"
+            ],
+            "key": "Geary Blvd (Year)"
+          },
+          {
+            "value": [
+              "0.8 mi"
+            ],
+            "key": "California and Van Ness Transit Stop (California Street Cable Car) (Distance)"
+          },
+          {
+            "key": "Submarket",
+            "value": [
+              "Fillmore Street Shopping District"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "20 min"
+            ],
+            "key": "California and Larkin Transit Stop (California Street Cable Car) (Walk)"
+          },
+          {
+            "value": [
+              "1.0 mi"
+            ],
+            "key": "California and Larkin Transit Stop (California Street Cable Car) (Distance)"
+          },
+          {
+            "value": [
+              "17 min"
+            ],
+            "key": "California and Van Ness Transit Stop (California Street Cable Car) (Walk)"
+          },
+          {
+            "value": [
+              "7 min"
+            ],
+            "key": "San Francisco 4th & King Commuter Rail (Caltrain) (Drive)"
+          },
+          {
+            "value": [
+              "3 min"
+            ],
+            "key": "California and Van Ness Transit Stop (California Street Cable Car) (Drive)"
+          },
+          {
+            "value": [
+              "2018"
+            ],
+            "key": "Webster St (Year)"
+          },
+          {
+            "value": [
+              "17 min"
+            ],
+            "key": "Van Ness and California Transit Stop (California Street Cable Car) (Walk)"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "2,986"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "9,846"
+            ],
+            "key": "Post St (Traffic Vol)"
+          },
+          {
+            "value": [
+              "0.21 mi"
+            ],
+            "key": "Geary Blvd (Distance)"
+          },
+          {
+            "key": "PROPERTY TYPE",
+            "value": [
+              "Retail"
+            ]
+          },
+          {
+            "value": [
+              "Webster St, E"
+            ],
+            "key": "Post St (Cross Street)"
+          },
+          {
+            "value": [
+              "Buchanan St, W"
+            ],
+            "key": "Geary Blvd (Cross Street)"
+          },
+          {
+            "value": [
+              "4 min"
+            ],
+            "key": "California and Polk Transit Stop (California Street Cable Car) (Drive)"
+          },
+          {
+            "value": [
+              "0.16 mi",
+              "0.21 mi"
+            ],
+            "key": "Webster St (Distance)"
+          },
+          {
+            "value": [
+              "2014"
+            ],
+            "key": "Pierce St (Year)"
+          },
+          {
+            "value": [
+              "1,530"
+            ],
+            "key": "Pierce St (Traffic Vol)"
+          },
+          {
+            "value": [
+              "34 min"
+            ],
+            "key": "Oakland International Airport (Drive)"
+          },
+          {
+            "value": [
+              "0.8 mi"
+            ],
+            "key": "Van Ness and California Transit Stop (California Street Cable Car) (Distance)"
+          },
+          {
+            "value": [
+              "2018"
+            ],
+            "key": "Post St (Year)"
+          },
+          {
+            "value": [
+              "3 min"
+            ],
+            "key": "Van Ness and California Transit Stop (California Street Cable Car) (Drive)"
+          },
+          {
+            "value": [
+              "4 min"
+            ],
+            "key": "California and Larkin Transit Stop (California Street Cable Car) (Drive)"
+          },
+          {
+            "value": [
+              "57,702"
+            ],
+            "key": "Geary Blvd (Traffic Vol)"
+          },
+          {
+            "key": "ZONING",
+            "value": [
+              "C2"
+            ]
+          },
+          {
+            "value": [
+              "California St, N"
+            ],
+            "key": "Pierce St (Cross Street)"
+          },
+          {
+            "value": [
+              "18 min"
+            ],
+            "key": "California and Polk Transit Stop (California Street Cable Car) (Walk)"
+          },
+          {
+            "value": [
+              "14.6 mi"
+            ],
+            "key": "San Francisco International Airport (Walk)"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Executive Office, Strip Center"
+            ],
+            "replace": "true"
+          },
+          {
+            "value": [
+              "Signage"
+            ],
+            "key": "Amenities"
+          }
+        ],
+        "floorSizeValue": 1386,
+        "floorSizeUnit": "sq ft",
+        "geoLocation": "POINT (-122.4382307 37.7877522)",
+        "latitude": "37.7877522",
+        "leasingTerms": [
+          {
+            "dateSeen": "2023-11-10T05:58:44.395Z",
+            "value": "3-5 Years"
+          },
+          {
+            "dateSeen": "2023-06-05T23:39:00.000Z",
+            "value": "Industrial Gross"
+          },
+          {
+            "dateSeen": "2023-06-05T23:39:00.000Z",
+            "value": "Length: 3-5 Years"
+          }
+        ],
+        "listingName": "1955 Sutter St",
+        "longitude": "-122.4382307",
+        "lotSizeValue": 0.05,
+        "lotSizeUnit": "acs",
+        "managedBy": [
+          {
+            "dateSeen": "2019-11-02T22:06:42.335Z",
+            "value": "SVN | Pacific Commercial Advisors"
+          }
+        ],
+        "mostRecentBrokerAgent": "Kevin Chin, Ccim",
+        "mostRecentBrokerCompany": "Svn | Pacific Commercial Advisors",
+        "mostRecentBrokerEmails": [
+          "kevinc@svn.com"
+        ],
+        "mostRecentBrokerPhones": [
+          "4159222900",
+          "14159222900"
+        ],
+        "mostRecentBrokerDateSeen": "2023-11-10T05:58:44.386Z",
+        "mostRecentPriceAmount": 5544,
+        "mostRecentPriceDomain": "www.showcase.com",
+        "mostRecentPriceFirstDateSeen": "2023-11-10T05:58:44.385Z",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T10:18:08.562Z",
+        "mostRecentStatusFirstDateSeen": "2023-04-06T08:21:24.592Z",
+        "phones": [
+          "+1 415-922-2900"
+        ],
+        "postalCode": "94115",
+        "prices": [
+          {
+            "amountMax": 4851,
+            "amountMin": 4851,
+            "currency": "USD",
+            "dateSeen": [
+              "2023-06-05T23:39:00.000Z",
+              "2023-05-11T18:12:00.000Z",
+              "2023-05-19T22:55:00.000Z",
+              "2023-04-10T22:32:00.000Z",
+              "2023-05-28T10:22:00.000Z",
+              "2023-05-24T07:22:00.000Z",
+              "2023-04-19T11:34:00.000Z",
+              "2023-04-06T08:21:00.000Z"
+            ],
+            "firstDateSeen": "2023-04-06T08:21:00.000Z",
+            "lastDateSeen": "2023-06-05T23:39:00.000Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 3.5
+          },
+          {
+            "amountMax": 4851,
+            "amountMin": 4851,
+            "currency": "USD",
+            "dateSeen": [
+              "2023-06-05T23:39:00.000Z",
+              "2023-05-11T18:12:00.000Z",
+              "2023-05-19T22:55:00.000Z",
+              "2023-04-10T22:32:00.000Z",
+              "2023-05-28T10:22:00.000Z",
+              "2023-05-24T07:22:00.000Z",
+              "2023-04-19T11:34:00.000Z",
+              "2023-04-06T08:21:00.000Z"
+            ],
+            "firstDateSeen": "2023-04-06T08:21:00.000Z",
+            "lastDateSeen": "2023-06-05T23:39:00.000Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 3.5
+          },
+          {
+            "amountMax": 5544,
+            "amountMin": 5544,
+            "comment": "Monthly Rental Price",
+            "currency": "USD",
+            "dateSeen": [
+              "2023-11-10T05:58:44.385Z"
+            ],
+            "firstDateSeen": "2023-11-10T05:58:44.385Z",
+            "lastDateSeen": "2023-11-10T05:58:44.385Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 4
+          },
+          {
+            "amountMax": 5544,
+            "amountMin": 5544,
+            "comment": "Monthly Rental Price",
+            "currency": "USD",
+            "dateSeen": [
+              "2023-11-10T05:58:44.385Z"
+            ],
+            "firstDateSeen": "2023-11-10T05:58:44.385Z",
+            "lastDateSeen": "2023-11-10T05:58:44.385Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 4
+          }
+        ],
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2019-07-09T06:18:00.000Z",
+              "2019-07-05T22:43:00.000Z",
+              "2019-07-15T18:13:00.000Z",
+              "2019-10-28T17:44:01.718Z",
+              "2019-12-07T02:03:24.964Z",
+              "2019-10-23T02:53:44.897Z",
+              "2019-10-11T17:34:51.562Z",
+              "2019-07-12T13:41:00.000Z",
+              "2019-11-02T22:06:42.329Z",
+              "2019-10-19T16:59:05.190Z",
+              "2019-12-11T21:06:45.762Z",
+              "2019-11-09T03:51:07.172Z",
+              "2019-10-17T10:10:02.234Z",
+              "2019-10-07T04:07:56.427Z",
+              "2019-07-31T09:10:31.891Z",
+              "2019-07-21T21:38:00.000Z"
+            ],
+            "firstDateSeen": "2019-07-05T22:43:00.000Z",
+            "lastDateSeen": "2019-12-11T21:06:45.762Z",
+            "type": "For Sale"
+          },
+          {
+            "dateSeen": [
+              "2023-11-10T01:23:23.212Z",
+              "2023-10-04T03:55:00.067Z",
+              "2023-06-05T23:39:00.000Z",
+              "2023-11-04T20:46:46.869Z",
+              "2023-09-28T08:45:55.180Z",
+              "2023-05-11T18:12:00.000Z",
+              "2023-09-15T06:55:00.000Z",
+              "2023-09-04T08:01:00.000Z",
+              "2023-05-28T10:22:00.000Z",
+              "2023-10-18T21:32:00.000Z",
+              "2023-04-19T11:34:00.000Z",
+              "2023-11-10T05:59:00.000Z",
+              "2023-08-23T21:16:00.000Z",
+              "2023-09-27T01:31:00.000Z",
+              "2023-10-16T10:56:14.236Z",
+              "2023-09-22T21:29:56.800Z",
+              "2023-09-21T12:54:59.466Z",
+              "2023-09-27T02:39:03.260Z",
+              "2023-09-24T03:33:10.748Z",
+              "2023-09-20T01:20:39.403Z",
+              "2023-10-22T03:00:12.534Z",
+              "2023-05-19T22:55:00.000Z",
+              "2023-04-10T22:32:00.000Z",
+              "2023-10-19T07:59:36.666Z",
+              "2023-10-24T22:40:15.031Z",
+              "2023-11-02T17:56:00.000Z",
+              "2023-10-28T22:05:47.425Z",
+              "2023-10-17T13:43:52.573Z",
+              "2023-05-24T07:22:00.000Z",
+              "2023-10-30T06:42:31.076Z",
+              "2023-10-26T07:09:48.695Z",
+              "2023-08-12T15:48:00.000Z",
+              "2023-10-28T03:25:00.000Z",
+              "2023-10-20T16:37:43.558Z",
+              "2023-10-05T09:40:59.635Z",
+              "2023-09-25T12:08:01.559Z",
+              "2023-10-27T16:27:46.684Z",
+              "2023-10-06T20:58:51.700Z",
+              "2023-04-06T08:21:00.000Z"
+            ],
+            "firstDateSeen": "2023-04-06T08:21:00.000Z",
+            "lastDateSeen": "2023-11-10T05:59:00.000Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-11-11T10:18:08.562Z"
+            ],
+            "firstDateSeen": "2023-04-06T08:21:24.592Z",
+            "lastDateSeen": "2023-11-11T10:18:08.562Z",
+            "type": "Rental"
+          }
+        ],
+        "yearBuilt": 1900,
+        "zoning": "C2",
+        "id": "AWvETgLI0x_BgD4eEhlu"
+      },
+      {
+        "address": "1680 Post St",
+        "brokers": [
+          {
+            "agent": "Kevin Chin, Ccim",
+            "company": "Svn | Pacific Commercial Advisors",
+            "dateSeen": "2023-06-09T22:43:00.000Z",
+            "emails": [
+              "kevinc@svn.com"
+            ],
+            "phones": [
+              "4159222900"
+            ]
+          }
+        ],
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2023-05-24T06:30:08Z",
+        "dateUpdated": "2023-11-11T09:19:22Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T09:19:00.000Z",
+            "value": "Small Office Space.​"
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "PROPERTY TYPE",
+            "value": [
+              "Retail"
+            ]
+          },
+          {
+            "key": "TOTAL BUILDING SIZE",
+            "value": [
+              "10,850 SF"
+            ]
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "353"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "ZONING",
+            "value": [
+              "NC2"
+            ]
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Commercial"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "10,850"
+            ],
+            "replace": "true"
+          }
+        ],
+        "floorSizeValue": 353,
+        "floorSizeUnit": "sq ft",
+        "geoLocation": "POINT (-122.4294272 37.7858837)",
+        "latitude": "37.7858837",
+        "leasingTerms": [
+          {
+            "dateSeen": "2023-06-09T22:43:00.000Z",
+            "value": "Length: 1-5 Years"
+          },
+          {
+            "dateSeen": "2023-06-09T22:43:00.000Z",
+            "value": "Modified Gross"
+          }
+        ],
+        "longitude": "-122.4294272",
+        "lotSizeValue": 0.1286,
+        "lotSizeUnit": "acs",
+        "mostRecentBrokerAgent": "Kevin Chin, Ccim",
+        "mostRecentBrokerCompany": "Svn | Pacific Commercial Advisors",
+        "mostRecentBrokerEmails": [
+          "kevinc@svn.com"
+        ],
+        "mostRecentBrokerPhones": [
+          "4159222900"
+        ],
+        "mostRecentBrokerDateSeen": "2023-06-09T22:43:00.000Z",
+        "mostRecentPriceAmount": 706,
+        "mostRecentPriceDomain": "www.showcase.com",
+        "mostRecentPriceFirstDateSeen": "2023-05-24T06:30:00.000Z",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusFirstDateSeen": "2023-05-24T06:30:00.000Z",
+        "postalCode": "94115",
+        "prices": [
+          {
+            "amountMax": 706,
+            "amountMin": 706,
+            "currency": "USD",
+            "dateSeen": [
+              "2023-05-24T06:30:00.000Z",
+              "2023-06-09T22:43:00.000Z",
+              "2023-06-01T15:31:00.000Z"
+            ],
+            "firstDateSeen": "2023-05-24T06:30:00.000Z",
+            "lastDateSeen": "2023-06-09T22:43:00.000Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 2
+          },
+          {
+            "amountMax": 706,
+            "amountMin": 706,
+            "currency": "USD",
+            "dateSeen": [
+              "2023-05-24T06:30:00.000Z",
+              "2023-06-09T22:43:00.000Z",
+              "2023-06-01T15:31:00.000Z"
+            ],
+            "firstDateSeen": "2023-05-24T06:30:00.000Z",
+            "lastDateSeen": "2023-06-09T22:43:00.000Z",
+            "domain": "www.showcase.com",
+            "period": "Per Month",
+            "pricePerSquareFoot": 2
+          }
+        ],
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-10-16T04:11:21.185Z",
+              "2023-10-06T14:47:25.684Z",
+              "2023-10-14T19:39:55.590Z",
+              "2023-10-30T11:55:39.730Z",
+              "2023-09-20T04:00:03.330Z",
+              "2023-10-13T11:31:01.573Z",
+              "2023-05-24T06:30:00.000Z",
+              "2023-10-12T01:25:46.478Z",
+              "2023-09-29T14:24:32.353Z",
+              "2023-09-28T05:19:34.014Z",
+              "2023-10-26T06:31:46.313Z",
+              "2023-10-27T12:46:33.323Z",
+              "2023-09-25T09:09:26.798Z",
+              "2023-11-08T19:13:18.729Z",
+              "2023-10-23T16:04:51.034Z",
+              "2023-11-07T03:25:21.384Z",
+              "2023-09-26T23:34:49.781Z",
+              "2023-10-05T06:20:38.689Z",
+              "2023-06-01T15:31:00.000Z",
+              "2023-10-07T23:27:18.112Z",
+              "2023-10-29T02:59:17.723Z",
+              "2023-10-24T22:02:41.611Z",
+              "2023-11-10T00:37:39.767Z",
+              "2023-06-09T22:43:00.000Z",
+              "2023-10-22T02:15:10.959Z",
+              "2023-10-09T07:38:39.699Z"
+            ],
+            "firstDateSeen": "2023-05-24T06:30:00.000Z",
+            "lastDateSeen": "2023-11-10T00:37:39.767Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-11-11T09:19:21.825Z"
+            ],
+            "firstDateSeen": "2023-10-17T19:42:22.534Z",
+            "lastDateSeen": "2023-11-11T09:19:21.825Z",
+            "type": "Rental"
+          }
+        ],
+        "yearBuilt": 1979,
+        "zoning": "NC2",
+        "id": "B-VzTIgB5p3ULnC0Wy9k"
+      },
+      {
+        "address": "1919 Fillmore St",
+        "assessedValues": [
+          {
+            "year": 2023,
+            "totalAmount": 85208,
+            "landAmount": 52156,
+            "improvementsAmount": 33052
+          }
+        ],
+        "brokers": [
+          {
+            "agent": "Pamela Mendelsohn",
+            "company": "Maven Commercial, Inc.",
+            "dateSeen": "2023-03-14T22:21:00.000Z",
+            "emails": [
+              "pamelalmendelsohn@gmail.com"
+            ],
+            "phones": [
+              "4155180893"
+            ]
+          }
+        ],
+        "categories": [
+          "Commercial",
+          "STORES & APARTMENTS"
+        ],
+        "cbsaName": "SAN FRANCISCO-OAKLAND-FREMONT, CA METROPOLITAN STATISTICAL AREA",
+        "cbsaCode": 41860,
+        "censusBlock": 2003,
+        "censusBlockGroup": 2,
+        "censusTract": 15202,
+        "city": "San Francisco",
+        "civilDivisionCode": 93625,
+        "civilDivisionName": "WESTERN ADDITION-BUENA VISTA-EUREKA VALLEY",
+        "congressionalDistrictHouse": 72,
+        "country": "US",
+        "county": "San Francisco",
+        "countyFIPS": 6075,
+        "currentOwnerType": "COMPANY",
+        "dateAdded": "2023-03-14T22:21:01Z",
+        "dateUpdated": "2023-11-11T08:08:23Z",
+        "descriptions": [
+          {
+            "dateSeen": "2023-11-11T08:08:00.000Z",
+            "value": "For Lease"
+          }
+        ],
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "legalLotNumber1",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "key": "TOTAL BUILDING SIZE",
+            "value": [
+              "3,530 SF"
+            ]
+          },
+          {
+            "key": "TransferInfoPurchaseTypeCode",
+            "value": [
+              "MORTGAGE"
+            ]
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "1,750"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "jurisdiction",
+            "value": [
+              "SAN FRANCISCO"
+            ]
+          },
+          {
+            "key": "TaxAssessedImprovementsPerc",
+            "value": [
+              "38"
+            ]
+          },
+          {
+            "key": "AreaGross",
+            "value": [
+              "3668"
+            ]
+          },
+          {
+            "key": "taxes",
+            "value": [
+              "2023 - $1889"
+            ]
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "QuitclaimDocument",
+            "value": [
+              "false"
+            ]
+          },
+          {
+            "key": "SitusStateCountyFIPS",
+            "value": [
+              "6075"
+            ]
+          },
+          {
+            "key": "lotSizeValueAcres",
+            "value": [
+              "0.0465794"
+            ]
+          },
+          {
+            "key": "seller_company",
+            "value": [
+              "Non Disclosed"
+            ]
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "1,750"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "PROPERTY TYPE",
+            "value": [
+              "Retail"
+            ]
+          },
+          {
+            "key": "buyer_company",
+            "value": [
+              "Morimoto Doris Trust"
+            ]
+          },
+          {
+            "key": "legalBlock1",
+            "value": [
+              "659"
+            ]
+          },
+          {
+            "key": "CombinedStatisticalArea",
+            "value": [
+              "San Jose-San Francisco-Oakland, CA"
+            ]
+          },
+          {
+            "key": "NeighborhoodCode",
+            "value": [
+              "6C"
+            ]
+          },
+          {
+            "key": "LastAssessorTaxRollUpdate",
+            "value": [
+              "2023-07-01"
+            ]
+          },
+          {
+            "key": "recepNumber",
+            "value": [
+              "788049876"
+            ]
+          },
+          {
+            "key": "ZONING",
+            "value": [
+              "FILLMR"
+            ]
+          },
+          {
+            "key": "CensusFIPSPlaceCode",
+            "value": [
+              "67000"
+            ]
+          },
+          {
+            "key": "AreaBuildingDefinitionCode",
+            "value": [
+              "Total Area"
+            ]
+          },
+          {
+            "key": "MetropolitanDivision",
+            "value": [
+              "SAN FRANCISCO-SAN MATEO-REDWOOD CITY, CA METROPOLITAN DIVISION"
+            ]
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "commercial"
+            ],
+            "replace": "true"
+          }
+        ],
+        "floorSizeValue": 3668,
+        "floorSizeUnit": "sq ft",
+        "geoLocation": "POINT (-122.4338291 37.7875996)",
+        "hvacTypes": [
+          "NONE"
+        ],
+        "latitude": "37.7875996",
+        "leasingTerms": [
+          {
+            "dateSeen": "2023-03-14T22:21:00.000Z",
+            "value": "Length: Negotiable"
+          },
+          {
+            "dateSeen": "2023-03-14T22:21:00.000Z",
+            "value": "Negotiable"
+          }
+        ],
+        "legalDescription": "3 659WESTERN ADD BL 3553 659 3 659",
+        "longitude": "-122.4338291",
+        "lotSizeValue": 2029,
+        "lotSizeUnit": "sqft",
+        "mostRecentBrokerAgent": "Pamela Mendelsohn",
+        "mostRecentBrokerCompany": "Maven Commercial, Inc.",
+        "mostRecentBrokerEmails": [
+          "pamelalmendelsohn@gmail.com"
+        ],
+        "mostRecentBrokerPhones": [
+          "4155180893"
+        ],
+        "mostRecentBrokerDateSeen": "2023-03-14T22:21:00.000Z",
+        "mostRecentPriceAmount": 180000,
+        "mostRecentPriceDomain": "datafiniti.co",
+        "mostRecentPriceDate": "2004-11-30T00:00:00.000Z",
+        "mostRecentPriceFirstDateSeen": "2023-10-27T15:22:38.884Z",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T08:08:23.876Z",
+        "mostRecentStatusFirstDateSeen": "2023-11-08T18:20:49.917Z",
+        "msaName": "SAN FRANCISCO-OAKLAND-FREMONT, CA",
+        "msaCode": 41860,
+        "numBathroom": 2,
+        "numFloor": 2,
+        "numParkingSpaces": 1,
+        "parking": [
+          "PARKING SPACES: 1"
+        ],
+        "postalCode": "94115",
+        "prices": [
+          {
+            "amountMax": 180000,
+            "amountMin": 180000,
+            "currency": "USD",
+            "date": "2004-11-30T00:00:00.000Z",
+            "dateSeen": [
+              "2023-10-27T15:22:38.884Z"
+            ],
+            "firstDateSeen": "2023-10-27T15:22:38.884Z",
+            "lastDateSeen": "2023-10-27T15:22:38.884Z",
+            "domain": "datafiniti.co",
+            "pricePerSquareFoot": 49.07
+          }
+        ],
+        "propertyType": "Retail",
+        "province": "CA",
+        "subdivision": "Western Add",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-11-11T08:08:23.876Z",
+              "2023-11-09T23:42:31.550Z",
+              "2023-11-08T18:20:49.917Z"
+            ],
+            "firstDateSeen": "2023-11-08T18:20:49.917Z",
+            "lastDateSeen": "2023-11-11T08:08:23.876Z",
+            "type": "Rental"
+          },
+          {
+            "date": "2004-11-30T00:00:00.000Z",
+            "type": "Sold"
+          }
+        ],
+        "transactions": [
+          {
+            "saleDate": "2004-11-30T00:00:00.000Z",
+            "documentType": "DEED OF TRUST",
+            "price": 180000,
+            "buyerLastName": "Morimoto Doris Trust",
+            "lenderName": "Ira Svcs Tr Co",
+            "loanAmount": 150000,
+            "mortgageTerm": 60,
+            "ownerType": "COMPANY",
+            "contactOwnerMailAddressFull": "584 CASTRO ST # 346, SAN FRANCISCO, CA, 94114"
+          },
+          {
+            "saleDate": "2004-11-30T00:00:00.000Z",
+            "documentType": "DEED OF TRUST",
+            "price": 180000,
+            "buyerLastName": "Morimoto Doris Trust",
+            "lenderName": "Ira Svcs Tr Co",
+            "loanAmount": 150000,
+            "mortgageTerm": 60,
+            "ownerType": "COMPANY",
+            "contactOwnerMailAddressFull": "584 CASTRO ST # 346, SAN FRANCISCO, CA, 94114"
+          }
+        ],
+        "yearBuilt": 1900,
+        "zoning": "FILLMR",
+        "id": "dMQ24oYBhBhNBLFcZcO0"
+      },
+      {
+        "address": "2035 Fillmore St",
+        "city": "San Francisco",
+        "country": "US",
+        "dateAdded": "2023-03-24T17:47:10Z",
+        "dateUpdated": "2023-11-11T07:53:34Z",
+        "features": [
+          {
+            "key": "Tenancy",
+            "value": [
+              "Multiple"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Max Contiguous SQFT",
+            "value": [
+              "2,155"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Vacant SQFT",
+            "value": [
+              "2,725"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Minimum Divisible SQFT",
+            "value": [
+              "570"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Subtype",
+            "value": [
+              "Commercial"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "County",
+            "value": [
+              "San Francisco County"
+            ],
+            "replace": "true"
+          },
+          {
+            "key": "Total Building SQFT",
+            "value": [
+              "2,725"
+            ],
+            "replace": "true"
+          }
+        ],
+        "geoLocation": "POINT (-122.4340171 37.7884256)",
+        "latitude": "37.7884256",
+        "longitude": "-122.4340171",
+        "mostRecentStatus": "Rental",
+        "mostRecentStatusDate": "2023-11-11T07:53:34.942Z",
+        "mostRecentStatusFirstDateSeen": "2023-10-15T02:54:42.579Z",
+        "numFloor": 1,
+        "postalCode": "94115",
+        "propertyType": "Retail",
+        "province": "CA",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2023-10-30T10:45:06.967Z",
+              "2023-10-19T05:40:17.597Z",
+              "2023-03-27T19:39:19.037Z",
+              "2023-09-26T22:02:17.618Z",
+              "2023-10-20T14:52:28.831Z",
+              "2023-04-03T23:53:07.850Z",
+              "2023-10-29T01:47:19.547Z",
+              "2023-04-11T17:29:12.230Z",
+              "2023-04-05T19:12:10.916Z",
+              "2023-03-24T17:47:09.988Z",
+              "2023-10-09T11:47:30.871Z",
+              "2023-11-07T01:25:41.550Z",
+              "2023-09-24T07:41:31.688Z",
+              "2023-04-19T10:49:00.130Z",
+              "2023-10-16T09:09:41.147Z",
+              "2023-10-15T02:54:42.579Z",
+              "2023-10-23T14:31:03.103Z",
+              "2023-10-08T03:35:37.225Z",
+              "2023-10-24T20:39:46.137Z",
+              "2023-03-25T21:56:45.027Z",
+              "2023-04-17T21:20:43.447Z",
+              "2023-10-27T11:14:48.520Z",
+              "2023-10-26T05:19:15.300Z",
+              "2023-09-25T17:47:42.386Z",
+              "2023-10-17T18:09:07.364Z",
+              "2023-10-22T00:35:44.195Z",
+              "2023-10-13T15:33:29.319Z"
+            ],
+            "firstDateSeen": "2023-03-24T17:47:09.988Z",
+            "lastDateSeen": "2023-11-07T01:25:41.550Z",
+            "type": "Rental"
+          },
+          {
+            "dateSeen": [
+              "2023-11-09T23:30:28.372Z",
+              "2023-11-11T07:53:34.942Z"
+            ],
+            "firstDateSeen": "2023-10-15T02:54:42.579Z",
+            "lastDateSeen": "2023-11-11T07:53:34.942Z",
+            "type": "Rental"
+          }
+        ],
+        "id": "rdG7FIcB5p3ULnC0RXPF"
+      }
+    ]
+  }
