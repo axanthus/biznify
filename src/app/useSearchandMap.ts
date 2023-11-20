@@ -1,7 +1,6 @@
 'use client'
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { handleSearch } from './utils/geocodingUtils';
-import { set } from 'immer/dist/internal.js';
 import { useRouter } from 'next/navigation'
 
 export default function useSearchandMap() {

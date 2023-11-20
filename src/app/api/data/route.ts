@@ -26,6 +26,7 @@ export async function GET(req: NextRequest, res: NextResponse) {
       floorSizeValue: record.prices?.amountMin,
       mostRecentPriceAmount: record.mostRecentPriceAmount,
       pricerPerSquareFoot: record.prices?.pricePerSquareFoot,
+      vacantSqft: record.features.filter((feature) => feature.key === 'Vacant SQFT')[0]?.value[0],
       city: record.city,
       country: record.country,
       province: record.province,
